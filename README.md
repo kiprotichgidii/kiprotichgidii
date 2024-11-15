@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-About Me 👋<br>Hi there! I'm an IT enthusiast and aspiring DevOps engineer with a passion for infrastructure automation, cloud technologies, and open-source tools.<br><br>🌟 What I do:<br><br>Build and manage scalable infrastructure using tools like Terraform, Ansible, and Bash scripting.<br>Experiment with virtualization platforms like KVM/libvirt and container orchestration tools like Kubernetes.<br>Solve complex technical problems and automate workflows for efficient and reliable IT operations.<br>🚀 Current Project:<br>I’m working on terraform-libvirt-module, a project that combines Terraform, Ansible, and Bash scripting to streamline the creation and management of virtual machines and infrastructure.<br><br>💡 Skills:<br><br>Linux Administration<br>Infrastructure as Code (Terraform, Ansible)<br>Virtualization and Networking<br>Scripting and Automation<br>🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech!<br><br>
+About Me 👋<br>Hi there! I'm an IT enthusiast and aspiring DevOps engineer with a passion for infrastructure automation, cloud technologies, and open-source tools.<br><br>🌟 What I do:<br><br>1. Build and manage scalable infrastructure using tools like Terraform, Ansible, and Bash scripting.<br>2. Experiment with virtualization platforms like KVM/libvirt and container orchestration tools like Kubernetes.<br>3. Solve complex technical problems and automate workflows for efficient and reliable IT operations.<br><br>🚀 Current Project:<br>I’m working on terraform-libvirt-module, a project that combines Terraform, Ansible, and Bash scripting to streamline the creation and management of virtual machines and infrastructure.<br><br>💡 Skills:<br><br>1. Linux Administration<br>2. Infrastructure as Code (Terraform, Ansible)<br>3. Virtualization and Networking<br>4. Scripting and Automation<br><br>🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech!<br><br>
 
 
 ## 🌐 Socials:
@@ -29,8 +29,8 @@ About Me 👋<br>Hi there! I'm an IT enthusiast and aspiring DevOps engineer wit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giddy624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=giddy624&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=giddy624&icon=0&color=0)](https://visitcount.itsvg.in)
