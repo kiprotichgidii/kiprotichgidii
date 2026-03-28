@@ -10,17 +10,17 @@ I’m a passionate DevOps and Systems Engineer in training, with a strong focus 
 
 I specialize in Linux system administration, where I actively work with different distributions to deploy, configure, and troubleshoot production-like environments. I enjoy working close to the system layer, understanding processes, networking stacks, and performance tuning.
 
-### Expertise
+### Expertise In:
 
-🔹 Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux <br>
-🔹 Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic <br>
-🔹 IaC & Automation: Terraform, Terragrunt, Ansible, Bash, Cloud-init <br>
-🔹 Containers & Orchestration: Kubernetes, Helm, ArgoCD, Docker <br>
-🔹 CI/CD: Github Actions, Jenkins <br>
-🔹 Networking: VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls <br>
-🔹 Programming: Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM <br>
+- Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux <br>
+- Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic <br>
+- IaC & Automation: Terraform, Terragrunt, Ansible, Bash, Cloud-init <br>
+- Containers & Orchestration: Kubernetes, Helm, ArgoCD, Docker <br>
+- CI/CD: Github Actions, Jenkins <br>
+- Networking: VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls <br>
+- Programming: Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM <br>
 
-### ⚙️ What I do
+### ⚙️ What I do:
 
 - 🐧 Linux Administration<br>
    Hands-on experience managing Linux servers, configuring services, handling storage, and troubleshooting system-level issues.
