@@ -1,12 +1,16 @@
-  # 👋 Hi, I'm Kiprotich Gedion
+  # 👋 Hi, I'm Gedion Kiprotich
 
-### ☁️  Cloud Infrastructure | DevOps Engineer
+### ☁️  Systems Engineer | DevOps Engineer
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-Cloud & Infrastructure | DevOps Engineer here, with a passion for infrastructure automation, cloud technologies, and open-source tools.
+I’m a passionate DevOps and Systems Engineer in training, with a strong focus on building, automating, and managing scalable infrastructure. My journey in tech is driven by curiosity and a deep interest in how systems work under the hood—from operating systems and networking to cloud and infrastructure automation.
+
+I specialize in Linux system administration, where I actively work with different distributions to deploy, configure, and troubleshoot production-like environments. I enjoy working close to the system layer, understanding processes, networking stacks, and performance tuning.
+
+### Expertise
 
 🔹 Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux <br>
 🔹 Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic <br>
@@ -15,6 +19,19 @@ Cloud & Infrastructure | DevOps Engineer here, with a passion for infrastructure
 🔹 CI/CD: Github Actions, Jenkins <br>
 🔹 Networking: VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls <br>
 🔹 Programming: Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM <br>
+
+### ⚙️ What I do
+
+- 🐧 Linux Administration<br>
+   Hands-on experience managing Linux servers, configuring services, handling storage, and troubleshooting system-level issues.
+- ☁️ Infrastructure as Code (IaC)<br>
+Building reusable and modular infrastructure using Terraform, including provisioning virtual machines and managing resources programmatically.
+- 🔧 Automation & Configuration Management<br>
+Writing Ansible playbooks and Bash scripts to automate system configuration, deployments, and operational tasks.
+- 🐳 Containerization & Orchestration<br>
+Working with Docker and Kubernetes to deploy and manage containerized applications, including ingress configuration and service exposure.
+- 🌐 Networking & Systems Design<br>
+Designing and configuring networks, including bridges, load balancing, DNS, and service routing in both local lab and cluster environments.
 
 ---
 
