@@ -10,7 +10,7 @@ I’m a passionate DevOps and Systems Engineer in training, with a strong focus 
 
 I specialize in Linux system administration, where I actively work with different distributions to deploy, configure, and troubleshoot production-like environments. I enjoy working close to the system layer, understanding processes, networking stacks, and performance tuning.
 
-### Expertise In:
+### 🧪 Expertise In:
 
 - Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux <br>
 - Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic <br>
@@ -158,6 +158,10 @@ Designing and configuring networks, including bridges, load balancing, DNS, and 
   </tr>
 </table>
 
+---
+## 📈 Career Goal
+
+I’m working towards becoming a DevOps / Site Reliability Engineer, focused on building resilient systems, improving deployment workflows, and automating everything that can be automated.
 ---
 ## Socials:
 🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech! <br>
