@@ -6,17 +6,15 @@
 
 ## 💫 About Me
 
-Cloud & Infrastructure | DevOps Engineer here, with a passion for infrastructure automation, cloud technologies, and open-source tools.<br><br>💫 What I do:<br><br>1. Build and manage scalable infrastructure using tools like Terraform, Ansible, and Bash scripting.
+Cloud & Infrastructure | DevOps Engineer here, with a passion for infrastructure automation, cloud technologies, and open-source tools.
 
-🔹 Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux
-🔹 Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic
-🔹 IaC & Automation: Terraform, Terragrunt, Ansible, Bash, Cloud-init
-🔹 Containers & Orchestration: Kubernetes, Helm, ArgoCD, Docker
-🔹 CI/CD: Github Actions, Jenkins
-🔹 Networking: VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls
-🔹 Programming: Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM
-
-<br>🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech!<br>
+🔹 Linux Systems: Ubuntu/Debian, RHEL, CentOS, Rocky/AlmaLinux <br>
+🔹 Cloud Platforms: OpenStack, Proxmox VE, KVM/libvirt, VMware (basic <br>
+🔹 IaC & Automation: Terraform, Terragrunt, Ansible, Bash, Cloud-init <br>
+🔹 Containers & Orchestration: Kubernetes, Helm, ArgoCD, Docker <br>
+🔹 CI/CD: Github Actions, Jenkins <br>
+🔹 Networking: VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls <br>
+🔹 Programming: Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM <br>
 
 ---
 
@@ -144,18 +142,8 @@ Cloud & Infrastructure | DevOps Engineer here, with a passion for infrastructure
 </table>
 
 ---
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josphat-mutai-37bb08bb)
-[![Website](https://img.shields.io/badge/CloudSpinx-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cloudspinx.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josphatkmutai@gmail.com)
-
 ## Socials:
+🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech! <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gedion) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jkennie_m) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gedion.kiprotich.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gedion.kiprotich.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gedion-kiprotich) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/giddy624) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28323157) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kiprotich_gidii)
 
----
-
- ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kiprotichgidii48@yahoo.com) 
 ---
