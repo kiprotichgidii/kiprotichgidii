@@ -162,9 +162,10 @@ Designing and configuring networks, including bridges, load balancing, DNS, and 
 ## 📈 Career Goal
 
 I’m working towards becoming a DevOps / Site Reliability Engineer, focused on building resilient systems, improving deployment workflows, and automating everything that can be automated.
+
 ---
 ## Socials:
-🔗 Let’s Connect:<br>I’m always open to collaborating on open-source projects or discussing all things tech! <br>
+
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gedion) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jkennie_m) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gedion.kiprotich.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gedion.kiprotich.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gedion-kiprotich) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/giddy624) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28323157) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kiprotich_gidii)
 
 ---
