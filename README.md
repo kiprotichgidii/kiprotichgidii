@@ -1,4 +1,4 @@
-# I'm Gedion Kiprotich
+# Gedion Kiprotich
 
 ### Systems Engineer | DevOps Engineer
 
