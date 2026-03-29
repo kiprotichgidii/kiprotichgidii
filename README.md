@@ -1,6 +1,6 @@
-# Gedion Kiprotich
+# 👋 Gedion Kiprotich
 
-### Systems Engineer | DevOps Engineer
+### 💫 Systems Engineer | DevOps Engineer
 
 ---
 
