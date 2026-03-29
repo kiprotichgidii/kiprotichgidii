@@ -1,6 +1,6 @@
-  # 👋 Hi, I'm Gedion Kiprotich
+# I'm Gedion Kiprotich
 
-### ☁️  Systems Engineer | DevOps Engineer
+### Systems Engineer | DevOps Engineer
 
 ---
 
