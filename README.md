@@ -18,7 +18,8 @@ I specialize in Linux system administration, where I actively work with differen
 - **Containers & Orchestration:** Kubernetes, Helm, ArgoCD, Docker <br>
 - **CI/CD:** Github Actions, Jenkins <br>
 - **Networking:** VPN/IPSec, DNS, DHCP, VLANs, Routing, HAProxy, Firewalls <br>
-- **Programming:** Python, Golang<br>8. Storage & Virtualization: Ceph RBD, QCOW2, ZFS, LVM <br>
+- **Programming:** Python, Golang<br>
+- **Storage & Virtualization:** Ceph RBD, QCOW2, ZFS, LVM <br>
 
 ### ⚙️ What I do:
 
