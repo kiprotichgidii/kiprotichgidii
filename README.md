@@ -144,7 +144,7 @@ Designing and configuring networks, including bridges, load balancing, DNS, and 
 ---
 ## 📈 Career Goal
 
-I’m working towards becoming a senior DevOps and Infrastructure Engineer, focused on building resilient systems, improving deployment workflows, and automating everything that can be automated.
+I’m working towards becoming a senior DevOps and Automation Engineer, focused on building resilient systems, improving deployment workflows, and automating everything that can be automated.
 
 ---
 ## Socials:
