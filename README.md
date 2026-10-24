@@ -1,12 +1,12 @@
 # 👋 Gedion Kiprotich
 
-### 💫 DevOps Engineer | Inrastructure Engineer
+### 💫 Systems Engineer | Inrastructure Engineer
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate DevOps and Infrastructure Engineer, with a strong focus on building, automating, and managing scalable infrastructure. My journey in tech is driven by curiosity and a deep interest in how systems work under the hood—from operating systems and networking to cloud and infrastructure automation.
+I’m a passionate Systems and Infrastructure Engineer, with a strong focus on building, automating, and managing scalable infrastructure. My journey in tech is driven by curiosity and a deep interest in how systems work under the hood—from operating systems and networking to cloud and infrastructure automation.
 
 I specialize in Linux system administration, where I actively work with different distributions to deploy, configure, and troubleshoot production-like environments. I enjoy working close to the system layer, understanding processes, networking stacks, and performance tuning.
 
