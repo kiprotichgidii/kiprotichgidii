@@ -1,6 +1,6 @@
 # 👋 Gedion Kiprotich
 
-### 💫 Systems Engineer | Inrastructure Engineer
+### 💫 Infrastructure | Systems Engineer
 
 ---
 
